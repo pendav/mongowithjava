@@ -8,10 +8,10 @@ git clone myProyect into the folder
 
 ### Prerequisites
 
-1.- Java JDK 7 or later
-2.- Spring Tool Suite (STS) 3.7.3.RELEASE
-3.- MongoDB shell version v3.4.0
-4.- Browser Chrome
+* 1.- Java JDK 7 or later
+* 2.- Spring Tool Suite (STS) 3.7.3.RELEASE
+* 3.- MongoDB shell version v3.4.0
+* 4.- Browser Chrome
 
 ### Installing
 
